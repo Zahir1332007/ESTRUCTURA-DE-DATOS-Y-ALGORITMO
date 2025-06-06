@@ -1,0 +1,1 @@
+{"document_type": "NATIONAL_ID", "amount": 250, "program": "PROGRAM-EMPLOYEE", "place": "ID_PLACE", "descripcion": "nombre del producto", "date_consumption": "2019-04-04 20:30:59", "extra": {"type": "tipo de producto", "uid": "codigo de producto"}, "employee": {"document_number": "87654321", "document_type": "NATIONAL_ID", "program": "PROGRAM-EMPLOYEE"}}
